@@ -26,12 +26,9 @@ I'm Kadir. I am interested in frontend technologies.
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) 
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kadirkorkmazz&theme=react&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kadirkorkmazz&theme=react&hide_border=true)<br/>
+### 📊 Stats:
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kadirkorkmazz&theme=react&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
